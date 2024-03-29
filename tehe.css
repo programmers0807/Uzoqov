@@ -1,0 +1,20 @@
+.block{
+    height: 100px;
+    width:100px;
+    background-color: aqua;\
+    display: inlline;
+
+
+}
+.bor{
+    height: 100px;
+    width: 200px;
+    background-color: aquamarine;
+    padding: 100px;
+}
+.span{
+    background-color: blue;
+    height: 200px;
+    height: 100px;
+    width: 200px;
+}
